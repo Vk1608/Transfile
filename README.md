@@ -30,12 +30,12 @@ To run tracker:
 
 Available Commands for TRACKER:
 
->> help: Print available commands
->> start <host IP> <port> : To setup a TCP server to connect all peers and tracker
->> exit : To exit tracker
->> list_peers : List all connected peers
->> list_files: All available files published by active peers
->> list_chunkinfo : List all available chunks of a file and to what peer it belongs 
+>> help: Print available commands <br />
+>> start <host IP> <port> : To setup a TCP server to connect all peers and tracker <br />
+>> exit : To exit tracker <br />
+>> list_peers : List all connected peers <br />
+>> list_files: All available files published by active peers <br />
+>> list_chunkinfo : List all available chunks of a file and to what peer it belongs <br />
 
 
 To run peer:
