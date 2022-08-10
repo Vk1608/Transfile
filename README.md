@@ -1,5 +1,5 @@
 # Transfile
- Transfile : A peer-to-peer file sharing system with tracker </br>
+ Transfile : A peer-to-peer file sharing system with tracker
  
 
 Prerequisites:
@@ -47,12 +47,12 @@ To run peer:
 
 Available Commands for PEER:
 
->> help: Print available commands
->> connect <host IP> <port> : To connect a TCP portol tracker
->> exit : To disconnect and exit peer
->> list_files: All available files published by active peers
->> publish <filename> : Publish a local file available to download by other peers (file must exist in same folder)
->> download <filename> <location> : Download a remote file to a local path (path must also include filename to be saved with, alongwith extension)
+>> help: Print available commands <br />
+>> connect <host IP> <port> : To connect a TCP portol tracker <br />
+>> exit : To disconnect and exit peer <br />
+>> list_files: All available files published by active peers <br />
+>> publish <filename> : Publish a local file available to download by other peers (file must exist in same folder) <br />
+>> download <filename> <location> : Download a remote file to a local path (path must also include filename to be saved with, alongwith extension) <br />
   
 
 Bugs and limitation:
